@@ -1,2 +1,8 @@
-# backgroundChanger-using-ReactJs
-The background changer app built with ReactJS allows users to customize the background of a web page with ease. It provides a simple and interactive interface where users can choose from a selection of backgrounds or upload their own images.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
